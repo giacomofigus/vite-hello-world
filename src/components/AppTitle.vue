@@ -6,7 +6,7 @@
   <h1>La mia prima app con Vite!</h1>
 </template>
 
-<style >
+<style scoped>
     h1{
         color: red;
     }
